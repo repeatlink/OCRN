@@ -1,5 +1,8 @@
 # OCRN
 原生OC 集成React Native 
+### 原生IOS如何集成React Native
+创建时间：2019-02-15  by 孔东
+
 
 #### 知识技能储备
 1. 需要了解OC基础
@@ -232,6 +235,7 @@
     ```
 1. 重新运行查看效果即可。
 
-1. 推荐基于我们联客的UI规范实现一套SaaS React Web 组件[RUI](https://github.com/reapeatlink-front/rui)
+
+
 
 
